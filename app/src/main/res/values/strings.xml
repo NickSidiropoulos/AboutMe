@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Nick Sidiropoulos</string>
+    <string name="star_desc">Yellow Star</string>
+    <string name="noname">A person has no name!</string>
+
+    <string name="bio">Hey, welcome!
+\n\n
+I\'m Nick!
+\n\n
+I\'m 29 years old and I\'m from Thessaloniki, Greece. I\'m a bachelor\'s degree graduate on Computer Science at Alexander Technological Educational Institute of Thessaloniki.
+\n\n
+After my graduation I worked as a Web Developer for a year and right now I\'m studying to become an Android Software Engineer.
+\n\n
+This is my portfolio website you can find my latest Android applications and my contact information. If you want to learn more about me you can contact me on LinkedIn or using the form below.
+\n\n
+Thank you for your time and have great day! 😉</string>
+    <string name="your_nickname">Whats your Nickname</string>
+    <string name="done">Done</string>
+    \n\n\n
+</resources>
